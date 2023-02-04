@@ -20,5 +20,8 @@
 	"homepage": "https://github.com/jaszeee/carte2#readme",
 	"devDependencies": {
 		"parcel": "^2.8.3"
+	},
+	"dependencies": {
+		"lodash-es": "^4.17.21"
 	}
 }
